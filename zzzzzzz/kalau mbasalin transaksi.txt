@@ -1,0 +1,1 @@
+INSERT INTO transaksis (id_transaksi, no_ref, tanggal, keterangan, nominal, jenis) SELECT id_jurnal, no_ref, tanggal, keterangan, nominal, jenis FROM transaksi;

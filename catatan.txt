@@ -1,0 +1,9 @@
+masih ada bug di ba hapus akun
+1. buat hapus akun di trash juga akan menghapus transaksi yang terhubung, 
+dan melalui yang terhubung get tanggal.. 
+hapus transaksi tanggal sekian
+
+2. buat ketika akun sedang di tempat sampah 
+maka transaksi yang lainnya juga masuk ke tempat sampah,
+
+3 restore nya juga buat sekalian akun di restore, transaksi terkait juga di restore

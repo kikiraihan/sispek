@@ -1,0 +1,66 @@
+/*INDEX.HTML*/
+/*---------------------------------------------------------------------------*/
+[class^="col"]{
+
+	/*border: 1px solid rgba(86,61,124,0.2);*/
+	padding: 0.4em;
+}
+
+.bg-tombol-putih{
+	background-color: white;
+	/*border: #CC1111 solid 2px 2px 2px 2px;*/
+	/*border-color: #D4D4D4;*/
+
+}
+.huruf-kecil{
+	font-family: sans-serif;
+	font-size: small;
+}
+.bg-navbar-mega{
+	background-color: #EFF1F5;
+	/*border-color: #D9D9D9;*/
+	padding-top: 0mm ;
+	padding-bottom: 0mm;
+	box-shadow: rgba(0, 0, 0, 0.15) 0px 1px 0px 0px;
+}
+.border-pembatas{
+	padding: 0em 1em;
+	/*border-left: 1px solid rgba(0, 0, 0, 0.05);*/
+	border-right: 1px solid rgba(0, 0, 0, 0.05);
+}
+.font-mega{
+	font-family: Source Sans Pro, Lato, Arial;
+}
+body{
+	font-family: sans;
+}
+.kartu-jurnal{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*untuk admin*/
+.sidebar-abuabu{
+    background-color: #e9ecef;
+}
+/*.sidebar-abuabu .nav-item{
+	border-bottom: 1px solid rgba(86, 61, 124, 0.2);
+}*/
+.sidebar-abuabu .nav-item:hover{
+	background-color: #DEE3ED;
+	
+}
+
+/*---------------------------------------------------------------------------*/
